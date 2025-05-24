@@ -1,45 +1,46 @@
-## 👋 About Me
+<div align="center">
 
-💻 **Data Science Student** at United International University  
-🧠 **Machine Learning Enthusiast** | 📊 Passionate about turning data into insights
+  ![Visitor Count](https://profile-counter.glitch.me/Nafiul-Islam-DS/count.svg)
 
-I'm currently studying Data Science with a focus on Python, machine learning, and real-world analytics.
+  ## Nafiul Islam
+</div>
+
+## 🛠️ Tech Stack
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Llama](https://img.shields.io/badge/-Llama-7B1FA2?style=flat-square&logo=meta&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6A5ACD?style=flat-square&logo=OpenAI&logoColor=white)
+
+### Data Science
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Visualization
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Cloud & Development Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 ---
 
-### 🔍 Interests
-- Exploratory Data Analysis (EDA)
-- Machine Learning Models
-- Data Visualization
-- Building smart, data-driven systems
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nafiul-Islam-DS&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Nafiul-Islam-DS&theme=dark&hide_border=true)](https://git.io/streak-stats)" />
+</p>
 
-### 📚 Always Learning
-I actively expand my knowledge through Kaggle Learn courses, competitions, and hands-on projects.
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiul-Islam-DS&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-## Languages 
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+## 🌐 Connect
 
----
-## 🛠️ Skills & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=flat&logo=OpenAI&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-AI-7B1FA2?style=flat&logo=meta&logoColor=white)
----
-
-
-![Nafiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafiul-Islam-DS&show_icons=true&theme=radical)
----
-### **Let's connect and grow together in the world of data!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nafiul-islam-739359279/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nafiulislam490)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nafiulislammmm@gmail.com)
-
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nafiulislam490)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nafiul-islam-739359279/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafiulislammmm@gmail.com)
