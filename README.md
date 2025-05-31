@@ -30,14 +30,22 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nafiul-Islam-DS&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Nafiul-Islam-DS&theme=dark&hide_border=true)](https://git.io/streak-stats)" />
-</p>
-
-<p align="center">
+</div>
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Nafiul-Islam-DS&theme=dark&hide_border=false)](https://git.io/streak-stats)" />
+</div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiul-Islam-DS&layout=compact&theme=dark&hide_border=true" />
-</p>
+  </div>
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nafiul-Islam-DS&theme=high-contrast" />
+</div>
+
 
 ## 🌐 Connect
 
